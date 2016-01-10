@@ -1,6 +1,6 @@
 # SeedPasswordGenerator
 
-A simple Javascript form to create MD5 passwords (32 chars long)
+A simple Javascript form to create MD5 passwords (32 chars long). See it live on http://pwd.lespacedunmatin.info/ (and do not trust such a foreign page not to steal your credentials).
 
 People usually use less than 5 differents passwords for their online life, easy to remember and less than 12 char long.
 
